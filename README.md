@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,28,40&height=220&section=header&text=Hi%2C%20I%27m%20Rio%20Pratama%20(Regan)%20%E2%9C%A8&fontSize=38&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,28,40&height=220&section=header&text=Hi%2C%20I%27m%20Regan%20Gradasi%20Matahari%20Jingga%20%E2%9C%A8&fontSize=32&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <a href="https://github.com/rezolaa">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=UI%2FUX+Enthusiast+%26+Product+Designer+%F0%9F%8E%A8;Full-Stack+Web+Developer+%F0%9F%92%BB;Creative+Frontend+%26+Canvas+Engineer+%F0%9F%8E%AE;Crafting+Intuitive%2C+User-Centric+Experiences+%E2%9C%A8" alt="Typing SVG" />
@@ -18,8 +18,8 @@
 
 ```javascript
 const developer = {
-  name: 'Rio Pratama',
-  alias: 'Regan',
+  name: 'Regan Gradasi Matahari Jingga',
+  nickname: 'Regan',
   title: 'UI/UX Enthusiast & Full-Stack Web Developer 🎨💻',
   location: 'Indonesia 🇮🇩',
   passion: 'Crafting user-centric UI/UX designs and translating them into pixel-perfect web apps',
