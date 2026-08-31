@@ -20,7 +20,7 @@
 const profile = {
   name: 'Regan Gradasi Matahari Jingga',
   nickname: 'Regan',
-  focus: ['UI/UX Enthusiast ', 'Data Analyst '],
+  focus: ['UI/UX Enthusiast 🎨', 'Data Analyst 📊'],
   location: 'Indonesia 🇮🇩',
   passion: 'Synthesizing complex data into actionable insights and designing intuitive, data-driven user experiences',
   philosophy: 'Where User Empathy meets Data-Driven Precision ✨',
@@ -32,10 +32,10 @@ const profile = {
 };
 ```
 
-- **UI/UX Enthusiast**: Designing intuitive user interfaces, wireframes, high-fidelity prototypes, and cohesive design systems that elevate user satisfaction and simplify complex workflows.
-- **Data Analyst**: Uncovering patterns, extracting actionable business insights, and crafting interactive visual analytics dashboards using *SQL, Python, Power BI, and Tableau*.
-- **The Intersection of UI/UX & Data**: Leveraging quantitative data analytics with qualitative user research to build evidence-backed, high-converting digital products and analytics interfaces.
-- **Let's Talk About**: User Experience, Data Storytelling, Business Intelligence, Product Metrics, and Dashboard Architecture.
+- 🎨 **UI/UX Enthusiast**: Designing intuitive user interfaces, wireframes, high-fidelity prototypes, and cohesive design systems that elevate user satisfaction and simplify complex workflows.
+- 📊 **Data Analyst**: Uncovering patterns, extracting actionable business insights, and crafting interactive visual analytics dashboards using *SQL, Python, Power BI, and Tableau*.
+- 🤝 **The Intersection of UI/UX & Data**: Leveraging quantitative data analytics with qualitative user research to build evidence-backed, high-converting digital products and analytics interfaces.
+- 💬 **Let's Talk About**: User Experience, Data Storytelling, Business Intelligence, Product Metrics, and Dashboard Architecture.
 
 ---
 
@@ -82,52 +82,15 @@ const profile = {
 
 ---
 
-### 📊 **GitHub Activity & Statistics**
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=rezolaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=f59e0b&text_color=cbd5e1" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezolaa&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezolaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" width="48%" alt="Top Languages" />
-  </p>
-</div>
-
----
-
-### 🏡 **Featured Spotlight Project**
-
-<div align="center">
-  <a href="https://github.com/rezolaa/portofolio-regan">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,24,38&height=120&text=%F0%9F%8E%AE%20Interactive%20RPG%20Village%20Portfolio&fontSize=24&subtext=Data-Driven%20UI%2FUX%20Design%20%2B%20Interactive%20Web%20Canvas%20Experience&subfontSize=14&fontColor=ffffff&subfontColor=38bdf8" width="95%" />
-  </a>
-</div>
-
-> **[🏡 Portofolio Regan (Interactive Village RPG)](https://github.com/rezolaa/portofolio-regan)**  
-> An immersive, gamified web portfolio and case study blending playful UI/UX design, interactive Web Canvas technology, and data-driven user flows. Features animated village discovery, custom dialog UX flows, responsive mobile D-Pad touch controls, and a dedicated high-converting Recruiter Quick-CV View.
-
----
-
 ### 📬 **Connect With Me**
 
 <div align="center">
   <p>
-    <a href="mailto:riopratamap21@gmail.com">
-      <img src="https://img.shields.io/badge/Email-riopratamap21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:regangradasi18@gmail.com">
+      <img src="https://img.shields.io/badge/Email-regangradasi18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/rezolaa">
-      <img src="https://img.shields.io/badge/GitHub-rezolaa-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://wa.me/6282245232958">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <a href="https://id.linkedin.com/in/regan-gmj" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Regan%20Gradasi%20Matahari%20Jingga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
 
