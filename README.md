@@ -20,7 +20,7 @@
 const profile = {
   name: 'Regan Gradasi Matahari Jingga',
   nickname: 'Regan',
-  focus: ['UI/UX Enthusiast 🎨', 'Data Analyst 📊'],
+  focus: ['UI/UX Enthusiast ', 'Data Analyst '],
   location: 'Indonesia 🇮🇩',
   passion: 'Synthesizing complex data into actionable insights and designing intuitive, data-driven user experiences',
   philosophy: 'Where User Empathy meets Data-Driven Precision ✨',
