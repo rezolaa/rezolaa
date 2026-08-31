@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,28,40&height=220&section=header&text=Hi%2C%20I%27m%20Rio%20Pratama%20(Regan)%20%E2%9C%A8&fontSize=38&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <a href="https://github.com/rezolaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Creative+Frontend+%26+Game+Canvas+Engineer+%F0%9F%8E%AE;React+%2F+Laravel+%2F+TailwindCSS+Enthusiast+%E2%9A%A1;Crafting+Immersive+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=UI%2FUX+Enthusiast+%26+Product+Designer+%F0%9F%8E%A8;Full-Stack+Web+Developer+%F0%9F%92%BB;Creative+Frontend+%26+Canvas+Engineer+%F0%9F%8E%AE;Crafting+Intuitive%2C+User-Centric+Experiences+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -20,32 +20,44 @@
 const developer = {
   name: 'Rio Pratama',
   alias: 'Regan',
+  title: 'UI/UX Enthusiast & Full-Stack Web Developer 🎨💻',
   location: 'Indonesia 🇮🇩',
-  passion: 'Building aesthetic, interactive & high-performance digital experiences',
-  currentFocus: ['React 18', 'Canvas 2D Game Loops', 'Web Audio API', 'Laravel Ecosystem'],
-  loves: ['Clean Code', 'Pixel Art & RPG Games', 'Modern UI/UX', 'Coffee ☕'],
+  passion: 'Crafting user-centric UI/UX designs and translating them into pixel-perfect web apps',
+  designPhilosophy: 'Intuitive, Accessible, Aesthetic & Delightful',
+  currentFocus: ['UI/UX Design Systems', 'Figma Prototyping', 'React 18 & TailwindCSS', 'Canvas 2D Game UI'],
+  loves: ['Clean Layouts', 'Micro-Interactions', 'Pixel Art & RPGs', 'Coffee ☕'],
   openForOpportunities: true
 };
 ```
 
-- 🔭 **Currently Building**: Interactive Canvas 2D Web Portfolios, Modern SaaS Dashboards, and Scalable Full-Stack Web Apps.
-- 🚀 **Core Specialty**: Blending modern frontend aesthetics (*TailwindCSS, React, Glassmorphism*) with robust backend architectures (*Laravel, Node.js, MySQL*).
-- 🎮 **Creative Engineering**: Canvas 2D game mechanics, real-time Web Audio API sound synthesis, and micro-interactions.
-- 💬 **Let's Talk About**: Web Development, UI/UX Trends, Game Dev in Browser, and Software Architecture.
+- 🎨 **UI/UX Enthusiast**: Passionate about crafting intuitive wireframes, high-fidelity prototypes, design systems, and seamless user journeys that solve real human problems.
+- 💻 **Full-Stack Development**: Transforming Figma concepts into blazing-fast, responsive web applications using *React, Tailwind CSS, Laravel, and Node.js*.
+- 🎮 **Creative Engineering**: Canvas 2D interactive UI, gamified web interfaces, Web Audio sound design, and fluid micro-animations.
+- 💡 **Bridging Design & Code**: Ensuring every design detail, color harmony, typography scale, and interaction translates flawlessly into production code.
 
 ---
 
-### 🛠️ **Tech Stack & Arsenal**
+### 🛠️ **Tech Stack & Design Arsenal**
 
 <div align="center">
 
-#### 🎨 **Frontend & Creative Engineering**
+#### 🎨 **UI/UX Design, Prototyping & Research**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-8B5CF6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Systems-06B6D4?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireframing-f59e0b?style=for-the-badge&logo=sketch&logoColor=white" />
+  <img src="https://img.shields.io/badge/User_Research-10B981?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interactive_Prototyping-EC4899?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+#### 💻 **Frontend & Creative Engineering**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_Audio_API-9333ea?style=for-the-badge&logo=audioboom&logoColor=white" />
 </p>
@@ -59,13 +71,12 @@ const developer = {
   <img src="https://img.shields.io/badge/REST_APIs-0284c7?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-#### 🧰 **Tools, DevOps & Design**
+#### 🧰 **Tools, DevOps & Environment**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Laragon-1e293b?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
@@ -98,12 +109,12 @@ const developer = {
 
 <div align="center">
   <a href="https://github.com/rezolaa/portofolio-regan">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,24,38&height=120&text=%F0%9F%8E%AE%20Interactive%20RPG%20Village%20Portfolio&fontSize=24&subtext=React%20%2B%20Vite%20%2B%20HTML5%20Canvas%202D%20%2B%20Pure%20Web%20Audio%20Synthesis&subfontSize=14&fontColor=ffffff&subfontColor=38bdf8" width="95%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,24,38&height=120&text=%F0%9F%8E%AE%20Interactive%20RPG%20Village%20Portfolio&fontSize=24&subtext=UI%2FUX%20Design%20%2B%20React%20%2B%20Vite%20%2B%20HTML5%20Canvas%202D%20%2B%20Web%20Audio&subfontSize=14&fontColor=ffffff&subfontColor=38bdf8" width="95%" />
   </a>
 </div>
 
 > **[🏡 Portofolio Regan (Interactive Village RPG)](https://github.com/rezolaa/portofolio-regan)**  
-> An immersive, gamified web portfolio where recruiters & visitors can explore a living pixel-art village, enter interactive buildings (Projects Market, Skills Farm, Arcade Festival, Contact Post), interact with animated villagers & pets, catch 14+ river fish species, or switch to a lightning-fast Professional Recruiter CV Mode.
+> An immersive, gamified web portfolio and case study blending playful UI/UX design with interactive Web Canvas technology. Features animated village discovery, custom dialog UX flows, responsive mobile D-Pad touch controls, and a dedicated high-converting Recruiter Quick-CV View.
 
 ---
 
